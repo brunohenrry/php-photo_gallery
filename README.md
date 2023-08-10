@@ -2,6 +2,8 @@
 
 Este é um projeto de uma galeria de fotos desenvolvida em PHP puro com o uso do ORM Eloquent e programação orientada a objetos. O projeto inclui uma interface de usuário para visualizar álbuns de fotos e suas informações.
 
+![Visualização do Projeto](https://github.com/brunohenrry/php-photo_gallery/blob/main/capture.jpeg)
+
 ## Funcionalidades
 
 - Exibição de álbuns de fotos com informações e ações interativas.
