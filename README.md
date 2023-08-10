@@ -41,4 +41,4 @@ Este projeto é licenciado sob a [Licença MIT](LICENSE).
 
 ---
 
-Feito por [Seu Nome](https://github.com/seu-usuario-github)
+Feito por [Seu Nome]([https://github.com/seu-usuario-github](https://github.com/brunohenrry)https://github.com/brunohenrry)
